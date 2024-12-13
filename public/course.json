@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/F7d5xNm/Adobe-Stock-205749506-Preview.jpg",
+    "course_name": "C Programming for Beginners",
+    "credit_hrs": 2,
+    "price": 199.99,
+    "course_details": "Learn the basics of C programming, including syntax, loops, functions, and pointers."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/JjLNYdd/download-1.jpg",
+    "course_name": "C++ Essentials",
+    "credit_hrs": 50,
+    "price": 249.99,
+    "course_details": "Master object-oriented programming and advanced features in C++."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/6b6y4TP/download.jpg",
+    "course_name": "C# Fundamentals",
+    "credit_hrs": 3,
+    "price": 220.00,
+    "course_details": "Dive into C# programming and learn how to build applications with .NET."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/zGMhgb3/download-2.jpg",
+    "course_name": "Python for Data Science",
+    "credit_hrs": 6,
+    "price": 299.99,
+    "course_details": "Learn Python and its libraries to analyze and visualize data."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/7R5JrS4/download-3.jpg",
+    "course_name": "Java for Beginners",
+    "credit_hrs": 4,
+    "price": 210.00,
+    "course_details": "Get started with Java programming, covering basics to object-oriented concepts."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/n0kWV6G/download-4.jpg",
+    "course_name": "Web Development with JavaScript",
+    "credit_hrs": 5,
+    "price": 230.00,
+    "course_details": "Learn how to build dynamic websites using JavaScript and modern frameworks."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/Cz77045/OIF.jpg",
+    "course_name": "SQL and Database Design",
+    "credit_hrs": 4,
+    "price": 180.00,
+    "course_details": "Master SQL and learn how to design relational databases for real-world applications."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/S5XrYYn/download-5.jpg",
+    "course_name": "Machine Learning with Python",
+    "credit_hrs": 7,
+    "price": 350.00,
+    "course_details": "Explore the world of machine learning algorithms using Python."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/cr5GMHq/OIP.jpg",
+    "course_name": "Introduction to Cybersecurity",
+    "credit_hrs": 10,
+    "price": 250.00,
+    "course_details": "Learn the basics of cybersecurity, including risk management and threat analysis."
+  }
+]
