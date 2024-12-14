@@ -11,7 +11,7 @@
     "id": 2,
     "image": "https://i.ibb.co.com/JjLNYdd/download-1.jpg",
     "course_name": "C++ Essentials",
-    "credit_hrs": 50,
+    "credit_hrs": 5,
     "price": 249.99,
     "course_details": "Master object-oriented programming and advanced features in C++."
   },
